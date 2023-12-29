@@ -1,0 +1,19 @@
+{
+    "name": "sohel/greetr",
+    "description": "Greetr - A simple Laravel package.",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Sohel\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sohel ahmed",
+            "email": "sohel@gmail.com"
+        }
+    ],
+    "require": {}
+}
